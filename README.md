@@ -80,7 +80,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img src="https://github-profile-trophy-ruddy.vercel.app/?username=Kiran1689&amp;no-bg=true&amp;row=2&amp;column=6&amp;margin-w=20&amp;margin-h=20&amp;theme=monokai"/>
+<img src="https://github-profile-trophy-ruddy.vercel.app/?username=c00lrajwa&amp;no-bg=true&amp;row=2&amp;column=6&amp;margin-w=20&amp;margin-h=20&amp;theme=monokai"/>
 
 </div>
 
