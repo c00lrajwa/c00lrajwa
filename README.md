@@ -76,7 +76,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 ---
 
-## 🏆 GitHub Skils
+## 🏆 GitHub Trophy
 
 <div align="center">
 
@@ -91,6 +91,16 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=c00lrajwa&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff2d78&area=true&hide_border=false&border_color=00f7ff"/>
+
+</div>
+
+---
+
+## 
+
+<div align="center">
+
+<img src="[https://github-readme-activity-graph.vercel.app/graph?username=c00lrajwa&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff2d78&area=true&hide_border=false&border_color=00f7ff](https://raw.githubusercontent.com/c00lrajwa/c00lrajwa/main/Skills_Animation_White.gif)"/>
 
 </div>
 
