@@ -70,7 +70,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=RAJWA&theme=tokyonight&background=0d1117&border=00f7ff&ring=00f7ff&fire=ff2d78&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=888888"/>
+<img src="https://github-readme-stats-xi-seven-23.vercel.app/api?username=Kiran1689&amp;count_private=true&amp;show_icons=true&amp;theme=nightowl&amp;bg_color=0,000000,441350&amp;title_color=c56a90&amp;text_color=ffffff&amp;rank_icon=github&amp;hide=prs,issues,contribs&amp;show=reviews,prs_merged,prs_merged_percentage%22%20style=%22max-width:%20100%;"/>
 
 </div>
 
