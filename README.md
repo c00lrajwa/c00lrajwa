@@ -80,7 +80,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jamiepine&theme=tokyonight&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="[https://github-profile-trophy.vercel.app/?username=jamiepine&theme=tokyonight&no-bg=true&column=7&margin-w=8&margin-h=8](https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_White.gif)"/>
 
 </div>
 
