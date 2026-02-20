@@ -62,9 +62,9 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c00lrajwa&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&icon_color=ff2d78&text_color=ffffff&count_private=true"/>
+<img height="180em" src=""/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c00lrajwa&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&text_color=ffffff"/>
+<img height="180em" src=""/>
 
 </div>
 
