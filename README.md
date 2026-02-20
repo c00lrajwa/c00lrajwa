@@ -62,9 +62,9 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&icon_color=ff2d78&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c00lrajwa&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&icon_color=ff2d78&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&text_color=ffffff&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c00lrajwa&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&text_color=ffffff&hide_border=false"/>
 
 </div>
 
@@ -80,7 +80,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=USERNAME&theme=tokyonight&no-bg=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=c00lrajwa&theme=tokyonight&no-bg=true&column=7&margin-w=8&margin-h=8"/>
 
 </div>
 
@@ -90,7 +90,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff2d78&area=true&hide_border=false&border_color=00f7ff"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=c00lrajwa&bg_color=0d1117&color=00f7ff&line=00f7ff&point=ff2d78&area=true&hide_border=false&border_color=00f7ff"/>
 
 </div>
 
