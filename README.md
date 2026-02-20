@@ -76,11 +76,11 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Skils
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_White.gif"/>
+<img src="https://raw.githubusercontent.com/c00lrajwa/c00lrajwa/Skills_Animation_White.gif"/>
 
 </div>
 
@@ -114,6 +114,6 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 <!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
 
-*Made with ❤️ by RAJWA — Always learning, always building* ✨
+*Made with ???*
 
 </div>
