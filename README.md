@@ -80,7 +80,7 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/c00lrajwa/c00lrajwa/Skills_Animation_White.gif"/>
+<img src="https://raw.githubusercontent.com/c00lrajwa/c00lrajwa/main/Skills_Animation_White.gif"/>
 
 </div>
 
