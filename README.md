@@ -62,15 +62,15 @@ fun_fact   : I debug with coffee ☕ and music 🎵
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jamiepine&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&icon_color=ff2d78&text_color=ffffff&hide_border=false&count_private=true&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=c00lrajwa&show_icons=true&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&icon_color=ff2d78&text_color=ffffff&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jamiepine&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&text_color=ffffff&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=c00lrajwa&layout=compact&theme=tokyonight&bg_color=0d1117&border_color=00f7ff&title_color=00f7ff&text_color=ffffff"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&background=0d1117&border=00f7ff&ring=00f7ff&fire=ff2d78&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=888888"/>
+<img src="https://streak-stats.demolab.com/?user=RAJWA&theme=tokyonight&background=0d1117&border=00f7ff&ring=00f7ff&fire=ff2d78&currStreakLabel=00f7ff&sideLabels=00f7ff&dates=888888"/>
 
 </div>
 
